@@ -1,15 +1,23 @@
 {
   "name": "music-engine",
   "version": "1.0.0",
-  "description": "",
+  "description": "gigable",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mike echlin",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.3.1",
     "express": "^4.12.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mechlin69/webaudio-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mechlin69/webaudio-sample/issues"
+  },
+  "homepage": "https://github.com/mechlin69/webaudio-sample#readme"
 }
